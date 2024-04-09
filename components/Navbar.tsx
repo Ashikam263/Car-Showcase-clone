@@ -16,6 +16,8 @@ const NavBar = () => (
         />
       </Link>
 
+
+
       <CustomButton
         title='Sign in'
         btnType='button'
